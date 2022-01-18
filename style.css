@@ -42,9 +42,10 @@ body {
     }
 
 .conteudo {
-    min-width: 320px;
-    margin-bottom: 800px;
+    min-width: 300px;
+    max-width: 1000px;
     margin: auto;
+    margin-bottom: 800px;
     border-top: 0.4px solid #fff2e7;
 
 }
