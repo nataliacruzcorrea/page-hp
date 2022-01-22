@@ -143,6 +143,70 @@ color: #FFF2E7;
     margin: 0 auto;
 }
 
+@media screen and (max-width: 1105px) {
+    .conteudo {
+    margin-left: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 620px) {
+    .rodape-imagem {
+        height: 90px;
+    }
+    
+}
+
+@media screen and (max-width: 605px) {
+    .rodape-imagem {
+        height: 60px;
+    }
+
+    .conteudo-principal-imagem {
+        height: 384px;
+        display: flex;
+        align-items: center;
+    
+       
+    }
+
+    .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .conteudo-principal-escrito  {
+        align-items: center;
+    }
+
+    .cabecalho  {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .cabecalho-menu {
+        display: flex;
+        flex-direction: column;
+    }
+    }
+
+    @media screen and (max-width: 388px) {
+        .conteudo-principal-imagem {
+            height: 324px;
+        }
+
+        .rodape-imagem {
+            height: 50px;
+        }
+
+    }
+        
+
+
+    
+
 
 
 
